@@ -31,7 +31,7 @@ display: inline;
 A value of `inline-block` will make an element behave like an inline-level element, but will allow you to style it with block level properties.
 
 ```
-display: inline;
+display: inline-block;
 ```
 
 #### **Margin & Padding on Inline-Level Elements**
